@@ -543,14 +543,6 @@ uint16_t mapCardToTrack(const char id[11]){
 - ESP-IDF UART 드라이버 사용
 - FreeRTOS 태스크 구조 재설계
 
-## 📄 라이선스
-
-MIT License
-
-Copyright (c) 2024
-
-본 프로젝트는 MIT 라이선스 하에 자유롭게 사용, 수정, 배포할 수 있습니다.
-
 ## 🤝 기여하기
 
 버그 리포트, 기능 제안, Pull Request를 환영합니다!
